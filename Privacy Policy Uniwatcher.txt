@@ -1,0 +1,46 @@
+﻿Privacy Policy
+Ultimo aggiornamento: 16 aprile 2025
+La presente Privacy Policy descrive come raccogliamo, utilizziamo, proteggiamo e condividiamo i dati personali degli utenti che utilizzano il nostro software ("Il Programma"). Ti invitiamo a leggere attentamente questa politica per comprendere come trattiamo i tuoi dati.
+1. Informazioni che raccogliamo
+Il Programma raccoglie alcune informazioni dal tuo dispositivo al fine di migliorare l'esperienza dell'utente e garantire la sicurezza del servizio. Le informazioni raccolte includono, ma non si limitano a:
+* HWID: un identificativo univoco del tuo dispositivo.
+
+* Username: un nome utente scelto liberamente dall'utente.
+
+Queste informazioni sono utilizzate esclusivamente per lo scopo di fornire un servizio personalizzato e proteggere l'accesso ai servizi offerti dal Programma.
+2. Come raccogliamo i dati
+Raccogliamo i dati attraverso il software che utilizzi. I dati vengono raccolti al momento del primo avvio del programma, quando ti viene richiesto di inserire un nome utente e di acconsentire alla raccolta dell'HWID.
+3. Utilizzo dei dati
+I dati che raccogliamo vengono utilizzati esclusivamente per i seguenti scopi:
+   * Verifica dell'accesso e autenticazione dell'utente.
+
+   * Personalizzazione dell'esperienza d'uso.
+
+   * Protezione e sicurezza del programma.
+
+I dati non verranno mai utilizzati per scopi diversi da quelli sopra elencati.
+4. Conservazione dei dati
+I dati raccolti saranno conservati per il tempo strettamente necessario a raggiungere gli scopi per cui sono stati raccolti, salvo quanto diversamente previsto dalle normative legali applicabili. In ogni momento, puoi richiedere la cancellazione dei tuoi dati, come descritto al punto 6.
+5. Condivisione dei dati
+I tuoi dati non saranno condivisi con terze parti, ad eccezione dei casi in cui:
+      * È necessario per rispettare obblighi legali, o
+
+      * È necessario per proteggere i diritti, la sicurezza o la proprietà nostra o degli utenti del programma.
+
+6. Diritti degli utenti
+Hai il diritto di:
+         * Accedere ai dati personali che abbiamo raccolto su di te.
+
+         * Correggere eventuali dati personali errati.
+
+         * Richiedere la cancellazione dei tuoi dati personali. Puoi farlo inviando una richiesta via email a privacy@esempio.com.
+
+Inoltre, puoi revocare il tuo consenso in qualsiasi momento. La revoca del consenso impedirà l'utilizzo del Programma in modo completo e porterà alla cancellazione dei dati raccolti, in conformità con le leggi applicabili.
+7. Consenso all'uso dei dati
+Accedendo e utilizzando il Programma, acconsenti esplicitamente alla raccolta, all'uso e alla conservazione dei tuoi dati come descritto in questa Privacy Policy. Cliccando su "Accetto" durante l'avvio del programma, confermi di aver letto e compreso questa Privacy Policy e acconsenti al trattamento dei tuoi dati.
+8. Sicurezza dei dati
+Abbiamo adottato misure di sicurezza per proteggere i dati personali contro accessi non autorizzati, alterazioni, divulgazioni o distruzioni. Tuttavia, nessun metodo di trasmissione o conservazione elettronica dei dati è sicuro al 100%. Non possiamo garantire la sicurezza assoluta dei tuoi dati, ma ci impegniamo a implementare pratiche di sicurezza appropriate.
+9. Modifiche alla Privacy Policy
+Ci riserviamo il diritto di modificare questa Privacy Policy in qualsiasi momento. In caso di modifiche significative, verrà mostrato un avviso nel Programma. Ti invitiamo a consultare periodicamente questa pagina per rimanere informato su eventuali aggiornamenti.
+10. Contatti
+Per qualsiasi domanda relativa a questa Privacy Policy o alla gestione dei tuoi dati personali, puoi contattarci via email a: privacy@esempio.com.
